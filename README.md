@@ -3,7 +3,7 @@
 
 This repository contains the solution for the LLM Engineer coding challenge. "Shield" is a full-stack application designed to detect and sanitize Personally Identifiable Information (PII) from user prompts *before* they are sent to a local Large Language Model for processing, ensuring user privacy and data security.
 
-
+Demo Video: https://drive.google.com/file/d/1s2LL33F74dxLc8ZCR8guf75WIiYxK2H7/view?usp=drive_link
 ---
 
 ### Key Features
